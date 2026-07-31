@@ -1,5 +1,5 @@
 <div align="center">
-<span style="font-size: 20px;">Hello! 👋</span>
+<h1>Hello! 👋</h1>
 
 $~$
 
