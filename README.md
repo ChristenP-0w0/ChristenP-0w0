@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="banner" src="images/banner-rounded-40.png">
+<span style="font-size: 20px;">Hello! 👋</span>
 
 $~$
 
