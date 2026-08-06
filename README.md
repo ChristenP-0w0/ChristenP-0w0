@@ -15,6 +15,6 @@ $~$
 
 $~$
 
-<img alt="logo" src="images/69742D6D75.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="logo" src="images/69742D6D75-glitch.gif"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
