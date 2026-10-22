@@ -1,20 +1,17 @@
 <div align="center">
-<h1>Hello! 👋</h1>
 
-$~$
+<img src="images/header.svg" width="100%" alt="christen — full-stack dev · iT-Mu · south africa" />
 
-<img align="left" width="37%" src="images/hampter.jpg"/>
+</div>
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=%23ff5e5b)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+## about
 
-$~$
+<img src="images/about.svg" width="100%" alt="role: full-stack @ iT-Mu, lab software (ISO 9001 / 17025) · writes: rust, typescript, python, sveltekit, next, c# · runs: arch (cachyos), kde" />
 
-<img alt="logo" src="images/69742D6D75-rgb.gif"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## projects
 
+<a href="https://github.com/ChristenP-0w0/qims-converter"><img src="images/projects.svg" width="100%" alt="qims-converter — rust — .docx → .html for QIMS" /></a>
+
+<div align="center">
+<img src="images/eof.svg" width="100%" alt="-- EOF --" />
 </div>
